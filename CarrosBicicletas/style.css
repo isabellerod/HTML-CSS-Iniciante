@@ -7,7 +7,7 @@ h1 {
 }
 
 .carro, .bicicleta {
-    background-color: black;
+    background-color: #111;
     border-radius: 4px;
     text-align: center;
     margin: 20px;

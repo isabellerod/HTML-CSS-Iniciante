@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.carro, .bicicleta {
+    background-color: black;
+    border-radius: 4px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+h2, p {
+    color: white;
+}
+
+span{
+    color: #febe01;
+}
+
+button {
+    background-color: #febe01;
+    border-radius: 4px;
+    padding: 10px;
+}
